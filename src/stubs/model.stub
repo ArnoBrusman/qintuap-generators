@@ -1,0 +1,13 @@
+<?php
+
+namespace {{namespace}};
+
+use {{contract}} as EntityContract;
+
+class {{class}} extends Model implements EntityContract
+{
+    
+    protected $table = '{{table}}';
+
+    protected $guarded = ['id'];
+}

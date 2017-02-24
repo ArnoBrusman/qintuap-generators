@@ -1,0 +1,12 @@
+
+Messed a bit with the ModelMakeCommand to see what I could do with it.
+Created the admake:model command that creates the most basic outlining for a model.
+Inherit functionality for the generation commands are very basic, but they are a good 
+base for future expansion, if a more function code generation options don't present themselves.
+
+Other commands were only directly copied for future use. 
+
+
+-- edit:
+Found an extention of it from bpocallaghan. Still fairly basic, but an extention none the less.
+My first personal extention on it would likely be to make what is replaced more malleable.

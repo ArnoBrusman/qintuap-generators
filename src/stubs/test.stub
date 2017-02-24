@@ -1,0 +1,11 @@
+<?php
+
+/**
+ * Description of test
+ *
+ * @author Premiums
+ */
+class {{class}} extends TestCase {
+
+    //put your code here
+}

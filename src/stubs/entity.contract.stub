@@ -1,0 +1,13 @@
+<?php
+
+namespace {{namespace}};
+
+/**
+ * Description of repository
+ *
+ * @author Premiums
+ */
+interface {{class}} extends Entity {
+
+    //put your code here
+}

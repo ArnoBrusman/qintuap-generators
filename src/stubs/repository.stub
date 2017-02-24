@@ -1,0 +1,15 @@
+<?php
+
+namespace {{namespace}};
+
+use {{contract}} as RepositoryContract;
+
+/**
+ * Description of repository
+ *
+ * @author Premiums
+ */
+class {{class}} extends EloquentRepository implements RepositoryContract {
+
+    //put your code here
+}
